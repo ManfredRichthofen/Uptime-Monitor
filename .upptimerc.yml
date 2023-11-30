@@ -5,12 +5,14 @@ repo: Uptime-Monitor # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Home Page
+    url: https://requests.jfapp.xyz
+  - name: Jellyfin
+    url: https://jfapp.xyz
+  - name: Movie Requests
+    url: https://requests.jfapp.xyz
+  - name: Movie Downloader
+    url: https://dl.jfapp.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
