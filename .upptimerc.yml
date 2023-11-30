@@ -3,16 +3,16 @@ owner: ManfredRichthofen # Your GitHub organization or username, where this repo
 repo: Uptime-Monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Home Page
-    url: https://requests.jfapp.xyz
+    url: https://home.jfapp.xyz
   - name: Jellyfin
     url: https://jfapp.xyz
   - name: Movie Requests
     url: https://requests.jfapp.xyz
   - name: Movie Downloader
     url: https://dl.jfapp.xyz
+  - name: Invites
+    url: https://invite.jfapp.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
