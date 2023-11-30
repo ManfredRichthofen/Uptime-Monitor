@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-30": 12
+      "2023-11-30": 272
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://jfapp.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/jfapp.xyz.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "99.03%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "99.03%",
-    "time": 245,
-    "timeDay": 245,
-    "timeWeek": 245,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "status": "up",
+    "uptime": "4.53%",
+    "uptimeDay": "4.53%",
+    "uptimeWeek": "4.53%",
+    "uptimeMonth": "4.53%",
+    "uptimeYear": "4.53%",
+    "time": 311,
+    "timeDay": 311,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2023-11-30": 0
+      "2023-11-30": 257
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-30": 11
+      "2023-11-30": 272
     }
   },
   {
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-30": 11
+      "2023-11-30": 272
     }
   }
 ]
