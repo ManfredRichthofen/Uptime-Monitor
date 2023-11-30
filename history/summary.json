@@ -1,40 +1,22 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 52,
-    "timeWeek": 138,
-    "timeMonth": 113,
-    "timeYear": 113,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Home Page",
-    "url": "https://requests.jfapp.xyz",
-    "icon": "https://icons.duckduckgo.com/ip3/requests.jfapp.xyz.ico",
+    "url": "https://home.jfapp.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/home.jfapp.xyz.ico",
     "slug": "home-page",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 506,
+    "timeDay": 506,
+    "timeWeek": 506,
+    "timeMonth": 506,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2023-11-30": 272
+      "2023-11-30": 282
     }
   },
   {
@@ -43,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jfapp.xyz.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "4.53%",
-    "uptimeDay": "4.53%",
-    "uptimeWeek": "4.53%",
-    "uptimeMonth": "4.53%",
-    "uptimeYear": "4.53%",
+    "uptime": "9.04%",
+    "uptimeDay": "9.04%",
+    "uptimeWeek": "9.04%",
+    "uptimeMonth": "9.04%",
+    "uptimeYear": "9.04%",
     "time": 311,
     "timeDay": 311,
     "timeWeek": 311,
@@ -74,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-30": 272
+      "2023-11-30": 286
     }
   },
   {
@@ -82,19 +64,37 @@
     "url": "https://dl.jfapp.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dl.jfapp.xyz.ico",
     "slug": "movie-downloader",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
+    "time": 345,
+    "timeDay": 345,
+    "timeWeek": 345,
+    "timeMonth": 345,
+    "timeYear": 345,
     "dailyMinutesDown": {
-      "2023-11-30": 272
+      "2023-11-30": 282
     }
+  },
+  {
+    "name": "Invites",
+    "url": "https://invite.jfapp.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/invite.jfapp.xyz.ico",
+    "slug": "invites",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 332,
+    "timeDay": 332,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
+    "dailyMinutesDown": {}
   }
 ]
