@@ -9,6 +9,8 @@ sites:
     url: https://requests.jfapp.xyz
   - name: Jellyfin
     url: https://jfapp.xyz
+    headers:
+      - "User-Agent: test uptime"
   - name: Movie Requests
     url: https://requests.jfapp.xyz
   - name: Movie Downloader
