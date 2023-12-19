@@ -4,10 +4,10 @@
     "url": "https://home.jfapp.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/home.jfapp.xyz.ico",
     "slug": "home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "98.93%",
     "uptimeYear": "98.93%",
     "time": 328,
@@ -16,6 +16,7 @@
     "timeMonth": 328,
     "timeYear": 328,
     "dailyMinutesDown": {
+      "2023-12-19": 5,
       "2023-11-30": 282
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://jfapp.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/jfapp.xyz.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.03%",
     "time": 310,
@@ -36,6 +37,7 @@
     "timeMonth": 310,
     "timeYear": 310,
     "dailyMinutesDown": {
+      "2023-12-19": 3,
       "2023-11-30": 257
     }
   },
@@ -56,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-19": 8,
+      "2023-12-19": 388,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
@@ -83,18 +85,19 @@
     "url": "https://dl.jfapp.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/dl.jfapp.xyz.ico",
     "slug": "movie-downloader",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
     "time": 239,
     "timeDay": 108,
     "timeWeek": 204,
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {
+      "2023-12-19": 2,
       "2023-11-30": 282
     }
   },
@@ -103,9 +106,9 @@
     "url": "https://invite.jfapp.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/invite.jfapp.xyz.ico",
     "slug": "invites",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,6 +117,8 @@
     "timeWeek": 217,
     "timeMonth": 236,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-19": 0
+    }
   }
 ]
